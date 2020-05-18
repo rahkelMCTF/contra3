@@ -6,7 +6,8 @@ window.onload = function() {
    tema = ["Pseudo-código","POO", "Teste Caixa-Preta", "Teste Caixa-Branca", "Java", "C++", "C", "Testes Funcionais", 
    "Teste de Não Funcionais", "Validação e Verificação", "Cenário de Teste", 
    "Paradigmas de Programação", "Diagrama de Classe", "Operadores lógicos", "Leitura e Interpretação", 
-   "Estrutura de Dados"];
+   "Estrutura de Dados", "Engenharia de Requisitos", "Diagrama de Atividades", "Diagramas de Casos de Uso", 
+   "Diagramas de Classes", "Ciclos de vida de Processos"];
 }
 exibir = function(id)
 {
