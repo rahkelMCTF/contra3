@@ -44,3 +44,24 @@
       margin-top: 20px;
       margin-bottom: 20px !important;
   }
+
+  .center1 {
+    margin: auto;
+    width: 30%;
+    height: 6rem;
+    background: gold;
+    background-image: url("img/uninassau.png");
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    border: 3px solid darkgray;
+    padding: 10px;
+  }
+
+  .center1-texto {
+    margin: auto;
+    width: 30%;
+    background: gold;
+    border: 3px solid darkgray;
+    padding: 10px;
+    text-align: center;
+  }
