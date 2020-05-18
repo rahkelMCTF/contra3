@@ -37,8 +37,8 @@ exibir = function(id)
 
 sortearEquipe = function(){
     var e = criarUnico(equipes.length);
-    document.getElementById("equipe").classList.remove('cartao');  
-    document.getElementById("equipe").classList.add('texto');  
+    document.getElementById("equipe").classList.remove('center1');  
+    document.getElementById("equipe").classList.add('center1-texto');  
     document.getElementById("equipe").innerHTML= "<h1>" + equipes[e] + "</h1>";
 }
 
